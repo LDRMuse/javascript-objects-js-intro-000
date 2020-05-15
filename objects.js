@@ -1,4 +1,1 @@
-var playlist = {
-  Slowdive: 'Alison'
-
-}
+var playlist = {0}
